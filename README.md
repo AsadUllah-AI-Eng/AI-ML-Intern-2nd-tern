@@ -5,14 +5,12 @@ Welcome to the AI/ML Internship repository! This repository provides a structure
 
  [AI/ML Internship Tasks](#aiml-internship-tasks)
   - [Table of Contents](#table-of-contents)
-  - [Task 1: Financial Time-Series Anomaly Detection](#Task-1:-Financial-Time-Series-Anomaly-Detection)
-  - [Task 2: Multi-Label Emotion Recognition from Text](#Task-2:-Multi-Label-Emotion-Recognition-from-Text)
-  - [Task 3: Satellite Image Analysis for Deforestation Monitoring](#Task-3:-Satellite-Image-Analysis-for-Deforestation-Monitoring)
-  - [Task 4: Credit Risk Analysis](#Task-4:-Credit-Risk-Analysis)
+  - [Task 1: Financial Time-Series Anomaly Detection](#Task-1-Financial-Time-Series-Anomaly-Detection)
+  - [Task 2: Multi-Label Emotion Recognition from Text](#Task-2-Multi-Label-Emotion-Recognition-from-Text)
+  - [Task 3: Satellite Image Analysis for Deforestation Monitoring](#Task-3-Satellite-Image-Analysis-for-Deforestation-Monitoring)
+  - [Task 4: Credit Risk Analysis](#Task-4-Credit-Risk-Analysis)
   - [Tools \& Libraries](#tools--libraries)
   - [Submission Requirements](#submission-requirements)
-  - [Bonus Task](#bonus-task)
-  - [Getting Started](#getting-started)
   - [Contact](#contact)
 
 ## Task 1: Financial Time-Series Anomaly Detection
